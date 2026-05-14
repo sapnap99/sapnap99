@@ -14,10 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GitHub stats
-        uses: jstrieb/github-stats@master
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Commit and push
         run: |

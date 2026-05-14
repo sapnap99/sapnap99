@@ -48,13 +48,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sapnap99/sapnap99/master/github_stats.svg" />
+  <img src="https://raw.githubusercontent.com/sapnap99/sapnap99/master/profile-summary-cards/profile-summary-card-output/github/0-profile-details.svg" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sapnap99/sapnap99/master/most_used_languages.svg" />
+  <img src="https://raw.githubusercontent.com/sapnap99/sapnap99/master/profile-summary-cards/profile-summary-card-output/github/1-most-commit-language.svg" />
 </div>
 
 ---
