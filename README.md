@@ -48,27 +48,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sapnap99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=a5b4cf" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnap99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=a5b4cf&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/sapnap99/sapnap99/master/github_stats.svg" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapnap99&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=fdd835&currStreakNum=a5b4cf&sideNums=a5b4cf&sideLabels=a5b4cf&dates=a5b4cf&currStreakLabel=58a6ff" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapnap99&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=a5b4cf&area_color=58a6ff33" width="95%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sapnap99&theme=tokyonight&no-frame=true&column=7&margin-w=12&margin-h=12" />
+  <img src="https://raw.githubusercontent.com/sapnap99/sapnap99/master/most_used_languages.svg" />
 </div>
 
 ---

@@ -1,29 +1,29 @@
-name: Update README
+name: Update Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 00:00 运行
-  workflow_dispatch:       # 允许手动触发
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-readme:
+  update-stats:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Update timestamp
-        run: |
-          echo "<!-- last updated: $(date -u +'%Y-%m-%d %H:%M UTC') -->" >> README.md
+      - name: Generate GitHub stats
+        uses: jstrieb/github-stats@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet && exit 0
-          git add README.md
-          git commit -chore: auto-update README
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update github stats"
           git push
