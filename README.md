@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+sapnap99+%F0%9F%91%8B;Welcome+to+my+GitHub!;Building+cool+things+with+code" alt="Typing SVG" />
 
-<br/><br/>
-
-<a href="https://github.com/sapnap99">
-  <img src="https://komarev.com/ghpvc/?username=sapnap99&label=Profile%20Views&color=58a6ff&style=flat" />
-</a>
-
 </div>
 
 ---
@@ -45,16 +39,40 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">Daily Reminder</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sapnap99/sapnap99/master/profile-summary-cards/profile-summary-card-output/github/0-profile-details.svg" />
+
+```
+                        ████████████████
+                    ████░░░░░░░░░░░░░░░░████
+                  ██░░░░░░░░░░░░░░░░░░░░░░░░██
+                ██░░░░░░░░████████████░░░░░░░░██
+              ██░░░░░░░██              ██░░░░░░██
+              ██░░░░░░██   ◉       ◉   ██░░░░░░██
+              ██░░░░░░██       ω       ██░░░░░░██
+              ██░░░░░░██    ╲_____╱    ██░░░░░░██
+              ██░░░░░░░██              ██░░░░░░░██
+                ██░░░░░░░░████████████░░░░░░░░██
+                  ██░░░░░░░░░░░░░░░░░░░░░░░░██
+                    ████░░░░░░░░░░░░░░░░████
+          ████████      ████████████████      ████████
+        ██░░░░░░░░██  ██░░░░░░░░░░░░░░░░██  ██░░░░░░░░██
+        ██░░░░░░░░██  ██░░░░░░░░░░░░░░░░██  ██░░░░░░░░██
+          ████████      ████████████████      ████████
+
+                    "代码写不完就明天再写"
+                      — 奶龙 2026
+```
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sapnap99/sapnap99/master/profile-summary-cards/profile-summary-card-output/github/1-most-commit-language.svg" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=500&color=a5b4cf&center=true&width=500&lines=if+%28bug%29+%7B+coffee+%2B%3D+1%3B+%7D;while+%28alive%29+%7B+code%28%29%3B+eat%28%29%3B+sleep%28%29%3B+%7D;return+42%3B" alt="Typing SVG" />
+
 </div>
 
 ---
